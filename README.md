@@ -1,4 +1,4 @@
-# Predictive Maintenance in Manufacturing Using Machine Learning
+# AI-Powered Predictive Maintenance System for Manufacturing Equipment Using Machine Learning
 
 A machine-learning project that analyzes machine operating conditions to predict potential failures and support data-driven maintenance planning. The project uses the **AI4I 2020 Predictive Maintenance Dataset** and combines exploratory data analysis, classification models, model explainability, and Power BI dashboards.
 
