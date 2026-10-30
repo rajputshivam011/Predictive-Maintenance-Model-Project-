@@ -2,11 +2,6 @@
 
 A machine-learning project that predicts whether an industrial milling machine will fail, using routine operating readings, so maintenance can be planned before a breakdown instead of after it.
 
-**Author:** Shivam Kumar Rajput
-**Project type:** Manufacturing Analytics Capstone
-
----
-
 ## Problem
 
 Unplanned machine failures cause downtime, higher maintenance cost, delivery delays and lower OEE. This project asks: *can torque, speed, temperature and tool wear tell us a machine is about to fail, and which of these readings matter most?*
@@ -134,3 +129,12 @@ Keep the six features in this order. A predicted failure means "inspect this mac
 ## Reference
 
 Matzka, S. (2020). *Explainable Artificial Intelligence for Predictive Maintenance Applications.* 2020 Third International Conference on Artificial Intelligence for Industries (AI4I), pp. 69-74. IEEE.
+
+
+👨‍💻 Author Shivam Kr. Rajput
+
+Predictive Maintenance Model
+
+Connect With Me LinkedIn: www.linkedin.com/in/shivamkrrajput GitHub: https://github.com/rajputshivam011
+
+⭐ If you found this project useful, consider giving it a Star on GitHub and sharing your feedback!
